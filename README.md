@@ -5,4 +5,4 @@ Given is the diagram of the TinkerCAD model of our Ultrasonic Range detector. He
 1. Arduino
 2. Ultrasonic Range Detector
 3. 4 wires connecting as shown above
-4. A well-structured code using C/C++
+4. A well-structured code using C/C++ (C++ is used here)
